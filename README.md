@@ -41,7 +41,7 @@ As part of my internship at *Prodigy InfoTech, I completed **Task 2, which focus
 
 > 📷 Below is a screenshot of an example output generated using Stable Diffusion pipeline:
 
-![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_01/blob/main/Task_2_ouput.png)
+![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_02/blob/main/Task_2_ouput.png)
 
 ---
 
